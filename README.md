@@ -53,4 +53,12 @@ Connect with me:
 
 ---
 
+### Additional Notes
+
+- Make sure the files `movie_list.pkl` and `similarity.pkl` are downloaded from Google Drive and are placed in the same folder as `app.py` before running the application.
+- If you face any issues or need additional help, feel free to open an issue in the [GitHub repository](https://github.com/Shaan013/movie-recommender-system).
+
+--- 
+
+
 This README provides a quick guide on setting up and running the project, as well as instructions for downloading the necessary files.
