@@ -1,5 +1,6 @@
 ---
 
+
 # Movie Recommender System
 
 This project is a **Movie Recommender System** developed using **Streamlit**, **Pandas**, and **The Movie Database (TMDB) API**. Given a selected movie, the system will recommend five similar movies and display their posters.
@@ -34,7 +35,6 @@ To enable the recommender functionality, download the following files and place 
 - **[movie_list.pkl](https://drive.google.com/file/d/11k5P-doR5pCjW0g3hUxLjhMMPeKxSWT-/view?usp=drive_link)**
 - **[similarity.pkl](https://drive.google.com/file/d/1Cx3JkyRuBRoxlwN4caSvoab2_psZJ__8/view?usp=drive_link)**
 
-*(Replace `<your_movie_list_file_id>` and `<your_similarity_file_id>` with the actual file IDs you provided.)*
 
 ### Running the Application
 To start the Streamlit application, navigate to your project directory in the terminal and run:
