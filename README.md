@@ -6,7 +6,7 @@
 This project is a **Movie Recommender System** developed using **Streamlit**, **Pandas**, and **The Movie Database (TMDB) API**. Given a selected movie, the system will recommend five similar movies and display their posters.
 
 ## Project Overview
-![Movie Recommender Screenshot](image/movie_recommender_screenshot.png)
+![Movie Recommender Screenshot](image/movie_recommended_system.png)
 The Movie Recommender System allows users to:
 - Choose a movie from a list.
 - Receive five recommended movies that are similar to the selected movie.
